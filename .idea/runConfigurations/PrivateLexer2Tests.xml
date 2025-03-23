@@ -1,0 +1,18 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="PrivateLexer2Tests" type="JUnit" factoryName="JUnit" nameIsGenerated="true">
+    <module name="tran5" />
+    <extension name="coverage">
+      <pattern>
+        <option name="PATTERN" value="Tests.*" />
+        <option name="ENABLED" value="true" />
+      </pattern>
+    </extension>
+    <option name="PACKAGE_NAME" value="Tests" />
+    <option name="MAIN_CLASS_NAME" value="Tests.PrivateLexer2Tests" />
+    <option name="METHOD_NAME" value="" />
+    <option name="TEST_OBJECT" value="class" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>
